@@ -35,3 +35,10 @@
 .social-icons a.ai :hover {
   opacity: 1;
 }
+
+@media screen and (max-width: 48em) {
+  .social-icons .left, .social-icons .right {
+    text-align: center;
+    float: none;
+  }
+}

@@ -46,3 +46,51 @@
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
 }
+
+
+@media screen and (min-width: 48em) {
+  .meta,
+  .post-meta {
+    margin: 0;
+    padding: 0;
+    font-size: 1.25rem;
+  }
+
+  .post-link .post-title {
+    margin-top: 0.5em;
+  }
+
+  .posts .post {
+    margin-bottom: 1.333em;
+    padding-bottom: 0.666em;
+    border-bottom: thin solid #f3f3f3;
+  }
+
+  .posts .post:last-child {
+    border-bottom: none;
+    margin-bottom: .333em;
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .posts .post-meta {
+    padding-bottom: .2em;
+  }
+
+  .post-link .post-title {
+    margin-top: .125em;
+  }
+
+  .posts .post {
+    margin-bottom: 2.666em;
+    padding-bottom: 1.333em;
+    border-bottom: thin solid #f3f3f3;
+  }
+
+  .posts .post:last-child {
+    border-bottom: none;
+    margin-bottom: .666em;
+    padding-bottom: 0;
+  }
+}
