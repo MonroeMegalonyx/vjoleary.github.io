@@ -4,7 +4,7 @@ email:       email@vincentoleary.xyz
 author:      Vincent O'Leary
 description: "Environmental science student"
 baseurl:     ""
-url:         "127.0.0.1:4000"
+url:         "blog.vincentoleary.xyz"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -18,7 +18,7 @@ bing_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
@@ -55,6 +55,7 @@ medium_id:
 google_scholar: lVbG4wQAAAAJ
 researchgate: vincent_oleary
 orcid:
+zotero_id: vjoleary
 
 
 # Post sharing icons
