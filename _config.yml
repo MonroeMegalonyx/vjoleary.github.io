@@ -1,10 +1,10 @@
 # Site settings
 title:       Vincent O'Leary
-email:       email@vincentoleary.xyz
+email:       email@vincentoleary.com
 author:      Vincent O'Leary
 description: "Using data to understand the planet"
 baseurl:     ""
-url:         "blog.vincentoleary.xyz"
+url:         "www.vincentoleary.com"
 date_format: "%b %-d, %Y"
 
 # Google services
