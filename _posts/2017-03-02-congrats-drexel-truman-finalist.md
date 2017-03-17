@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Drexel's 2017 Truman Finalist"
-categories: news
 tags: awards
 ---
 

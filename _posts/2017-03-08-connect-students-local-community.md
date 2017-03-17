@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Drexel Course Helps Students Connect To Local Community"
-categories: news
 tags: science service
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Don’t dismiss science fairs. Make them better"
-categories: interview
-tags: science
+tags: science interview
 ---
 
 In response to [Carl Zimmer's](https://www.statnews.com/2016/04/13/science-fairs-white-house/) comments to STAT News that science fairs were flawed and an exercise in privilege, I wrote about my experience with these fairs growing up.

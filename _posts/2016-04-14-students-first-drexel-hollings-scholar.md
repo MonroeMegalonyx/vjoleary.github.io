@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "BEES Students Named Drexel's First Hollings Scholars"
-categories: news
 tags: awards
 ---
 
