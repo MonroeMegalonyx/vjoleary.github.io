@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diving Deep: Two Honors College students receive prestigious NOAA scholarship"
-categories: awards
+categories: interview
 ---
 
 The Pennoni Honors College at Drexel University interviewed me about my research and public outreach, and how the NOAA scholarship will help me continue doing this work.

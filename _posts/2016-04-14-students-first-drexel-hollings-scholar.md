@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "BEES Students Named Drexel's First Hollings Scholars"
-categories: awards
+categories: news
+tags: awards
 ---
 
 I was one of the first students at Drexel to receive the NOAA Hollings Scholarship to support my research and education in environmental science.

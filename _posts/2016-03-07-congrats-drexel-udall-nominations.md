@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Drexel's Nominees for the 2016 Udall Scholarship"
-categories: awards
+categories: news
+tags: awards
 ---
 
 I was recently recognized as one of four Drexel nominees for the Udall Scholarship.
