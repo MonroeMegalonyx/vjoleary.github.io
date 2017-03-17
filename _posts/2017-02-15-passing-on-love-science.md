@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In the Classroom and on the River Banks, Passing on a Love for Science"
-categories: news
+categories: interview, science
 ---
 
 I was interviewed by Ben Seal at Drexel University on my involvement in science education and outreach during my time as a student here.

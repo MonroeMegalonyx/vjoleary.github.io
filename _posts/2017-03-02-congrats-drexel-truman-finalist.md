@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drexel's 2017 Truman Finalist"
-categories: news
+categories: awards
 ---
 
 I was recently recognized as one of 199 finalists for the 2017 Truman Scholarship. 
