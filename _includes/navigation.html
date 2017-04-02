@@ -1,18 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1504.82">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000ee; -webkit-text-stroke: 0px #0000ee}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% for page in site.pages %} {% if page.tags contains "about" %} <a href="file:///Users/vincent/Github/website/_includes/%7B%7B%20page.url%20%7D%7D"><span class="s2">{{ page.title }}</span></a> {% endif %} {% endfor %} <a href="file:///assets/downloads/olearyCV.pdf"><span class="s2">CV</span></a> <a href="https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=28592"><span class="s2">My Planet</span></a> {% for page in site.pages %} {% if page.tags contains "cv" %} <a href="file:///Users/vincent/Github/website/_includes/%7B%7B%20page.url%20%7D%7D"><span class="s2">{{ page.title }}</span></a> {% endif %} {% endfor %} {% for page in site.pages %} {% if page.tags contains "contact" %} <a href="file:///Users/vincent/Github/website/_includes/%7B%7B%20page.url%20%7D%7D"><span class="s2">{{ page.title }}</span></a> {% endif %} {% endfor %}<span class="Apple-converted-space"> </span></span></p>
-</body>
-</html>
+{% for page in site.pages %}
+    {% if page.tags contains "about" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+
+<a href="/assets/downloads/olearyCV.pdf">CV</a>
+
+{% for page in site.pages %}
+    {% if page.tags contains "planet" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
