@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “45 Advocates Named to Help Underserved Students Compete & Succeed in Science Research Competitions”
+title: 45 Advocates Named to Help Underserved Students Compete & Succeed in Science Research Competitions
 tags: science awards
 ---
 
