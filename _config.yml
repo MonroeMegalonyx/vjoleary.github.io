@@ -43,19 +43,10 @@ facebook_comments_number: 10
 
 # Social icons
 github_username: vjoleary
-bitbucket_username:
-stackoverflow_id:
 twitter_username: vjoleary
-skype_username:
-steam_nickname:
-google_plus_id:
 linkedin_username: vjoleary
-angellist_username:
-medium_id:
 google_scholar: lVbG4wQAAAAJ
-researchgate:
 orcid: 0000-0002-2847-7981
-zotero_id:
 
 
 # Post sharing icons
@@ -109,9 +100,10 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     6
 sass:
   compressed: true
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
