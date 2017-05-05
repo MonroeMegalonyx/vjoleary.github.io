@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Drexel’s 2017 Udall Scholarship Recipients
+title: 2017 Udall Scholarship Recipient
 tags: awards policy
 ---
 
-I was selected as one of 3 Udall Scholar recipients from Drexel for 2017. It was an honor to be recognized for my work in the environment and public service, especially for the Udall award. I originally began working with the Fellowships Office late 2014 with the goal of applying for this award, and after many detours and other applications, I can finally count myself among the other Udall Scholars.
+I was selected as one of 50 Udall Scholars for 2017.
 
-Continue reading on the Fellowships Office [announcement.](http://drexel.edu/fellowships/about/news/2017/April/2017%20Udall%20Scholars/)
+The [Udall Scholarship](http://www.udall.gov/OurPrograms/Scholarship/AboutScholarship.aspx) was established to recognize college sophomores and juniors that demonstrated their commitment to the environment through participation on campus and service to the community. The award also recognizes students working in areas of tribal policy and native health care. It is awarded by the Morris K. Udall and Stewart L. Udall Foundation.
+
+[Drexel Fellowships Office announcement](http://drexel.edu/fellowships/about/news/2017/April/2017%20Udall%20Scholars/)  
+*update May 1, 2017* [Udall Foundation announcement](http://www.udall.gov/OurPrograms/Scholarship/MeetScholars.aspx?webid=4623)

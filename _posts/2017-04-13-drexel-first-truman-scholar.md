@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Drexel’s Vincent O’Leary Receives Truman Scholarship for Environmental Science
+title: 2017 Truman Scholarship Recipient
 tags: awards policy
 ---
 
-As I say in the article: "It’s extremely rewarding to be validated in this way — that not only is what I want to do valid and needed and topical right now, but that people are really looking for this kind of science and advocacy at the intersection of research and policy. It really makes me feel like what I’m doing is needed and that I should be pursuing this."
+I was selected as one of 62 Truman Scholars for 2017, and the first student from Drexel University to ever receive the award.
 
-Continue reading on [Drexel NOW](http://drexel.edu/now/archive/2017/April/Truman-Scholar-Vincent-O-Leary/) and the College of Arts and Science [News Page](http://drexel.edu/coas/news-events/news/2017/April/Truman-Scholar-Vincent-O-Leary/)
+The [Truman Scholarship](https://www.truman.gov) was established as a living memorial to the 33rd president of the United States and recognizes students committed to a career in public service and will become a self described "change agent". Scholars are chosen based on their academic and community service record and long term plans for graduate studies and a career in public service.
+
+[Harry S. Truman Foundation announcement](https://www.truman.gov/2017-truman-scholars/)  
+[Harry S. Truman Foundation press release](https://www.truman.gov/whats-new/announcing-2017-truman-scholars)  
+[Drexel Fellowship's Office announcement](http://www.drexel.edu/fellowships/about/news/2017/April/2017%20Truman%20Scholar/)  
+[Drexel NOW interview](http://drexel.edu/now/archive/2017/April/Truman-Scholar-Vincent-O-Leary/)  
+[College of Arts and Science announcement](http://drexel.edu/coas/news-events/news/2017/April/Truman-Scholar-Vincent-O-Leary/)

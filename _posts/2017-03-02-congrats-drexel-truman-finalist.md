@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Drexel's 2017 Truman Finalist"
-tags: awards
+title: 2017 Truman Scholarship Finalist
+tags: awards policy
 ---
 
-I was recently recognized as one of 199 finalists for the 2017 Truman Scholarship. 
+I was recognized as one of 199 finalists for the 2017 Truman Scholarship, after being nominated by Drexel to apply. 
 
->The Truman Scholarship is a highly prestigious national program that supports the graduate education and professional development of outstanding young people committed to careers in public service, including education and non-profit sectors. Since its creation in 1975, the Truman Scholarship Foundation has supported almost 3,000 Truman Scholars who are making a difference in all corners of the nation and around the globe.
-
-Read more from the Drexel Fellowships Office [announcement.](http://drexel.edu/fellowships/about/news/2017/February/Congrats to Truman Finalist Vincent OLeary/)
+[Drexel Fellowships OFfice announcement.](http://drexel.edu/fellowships/about/news/2017/February/Congrats to Truman Finalist Vincent OLeary/)  
+[Original Drexel Fellowships announcement for nomination](http://drexel.edu/fellowships/about/news/2017/February/2017%20Truman%20Scholarship%20Nominee/)
