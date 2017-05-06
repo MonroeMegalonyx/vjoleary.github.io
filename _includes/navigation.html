@@ -2,8 +2,7 @@
     {% if page.tags contains "about" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
-{% endfor %}
-
+	{% endfor %}
 {% for page in site.pages %}
     {% if page.tags contains "research" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
@@ -17,13 +16,7 @@
 	{% endfor %}
 
 {% for page in site.pages %}
-    {% if page.tags contains "mycv" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
-	{% endfor %}
-	
-{% for page in site.pages %}
-    {% if page.tags contains "planet" %}
+    {% if page.tags contains "cv" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 	{% endfor %}

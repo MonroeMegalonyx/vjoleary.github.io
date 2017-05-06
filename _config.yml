@@ -42,6 +42,8 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
+show_social_icons: true
+rss_feed: feed.xml
 github_username: vjoleary
 twitter_username: vjoleary
 linkedin_username: vjoleary
@@ -100,9 +102,9 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     6
+paginate:     8
 sass:
-  compressed: true
+  compressed: false
 gems:
   - jekyll-paginate
   - jekyll-sitemap

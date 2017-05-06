@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don’t dismiss science fairs. Make them better"
+title: Interview with STAT News
 tags: science interview
 ---
 
@@ -10,4 +10,4 @@ In response to [Carl Zimmer's](https://www.statnews.com/2016/04/13/science-fairs
 >Competing in science fairs also helped me get to the college I attend today, both in getting accepted and in paying for it with some of the awards I won.
 >It’s impossible to say where I’d be now without science fairs, but those experiences gave me a platform to do research about the environment and introduced me to a new world of questions.
 
-Read more of my response along with my my peers in [STAT News.](https://www.statnews.com/2016/04/14/science-fair-participants/)
+Source: [STAT News interview](https://www.statnews.com/2016/04/14/science-fair-participants/)
