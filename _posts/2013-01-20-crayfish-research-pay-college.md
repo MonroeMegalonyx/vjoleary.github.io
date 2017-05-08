@@ -10,5 +10,5 @@ I've worked for several years on a science fair project exploring the effects of
 
 Theresa Fultz, Wheeling Central math teacher
 
-Source: [The Intelligencer interview.](http://www.theintelligencer.net/news/top-headlines/2013/01/crayfish-research-pays-for-college)
+Source: [The Intelligencer interview.](http://www.theintelligencer.net/news/top-headlines/2013/01/crayfish-research-pays-for-college)  
 *update May 6, 2013 - After returning from the Intel Science Talent Search I sat down for a follow up with The Intelligencer.* Source: [The Intelligencer interview.](http://www.theintelligencer.net/news/community/2013/03/o-leary-lauded-for-research-in-d-c-meets-president/)
