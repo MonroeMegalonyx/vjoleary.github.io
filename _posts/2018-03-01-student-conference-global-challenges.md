@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIDEO: Presentation for the 11th Annual Student Conference on Global Challenges at Drexel University.
+title: Presentation for the 11th Annual Student Conference on Global Challenges at Drexel University
 tags: science 
 ---
 

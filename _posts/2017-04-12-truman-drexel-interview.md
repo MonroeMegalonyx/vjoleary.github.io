@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview with Drexel NOW
+title: Interview with DrexelNOW
 tags: awards policy truman
 ---
 
