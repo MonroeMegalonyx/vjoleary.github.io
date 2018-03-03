@@ -13,3 +13,4 @@ Source: [Harry S. Truman Foundation press release](https://www.truman.gov/whats-
 Source: [Drexel Fellowship's Office announcement](http://www.drexel.edu/fellowships/about/news/2017/April/2017%20Truman%20Scholar/)  
 Source: [College of Arts and Science announcement](http://drexel.edu/coas/news-events/news/2017/April/Truman-Scholar-Vincent-O-Leary/)  
 Source: [The Intelligencer announcement](http://www.theintelligencer.net/life/features/2017/04/wheeling-native-named-truman-scholar/)
+*update fall, 2017 - Drexel University featured this announcement again in the fall edition of their magazine* Source: [Drexel Magazine article](https://drexelmagazine.org/2017/drexels-first-truman-scholarship/)
