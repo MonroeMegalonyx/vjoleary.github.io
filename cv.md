@@ -6,17 +6,10 @@ tags: cv
 ---
 This page was originally written in Markdown for GitHub. This CV is also available as a PDF <a href="{{ site.baseurl }}/assets/docs/cv.pdf">here.</a>
 
-## Education
-*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.56  
-**BS Environmental Science**, minors in Mathematics, Geoscience  
-*Relevant Courses*: Biogeography, Biodiversity, Phylogenetic Analysis, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Community Mobilization and Advocacy, American Political Thought
-
-*2015* **Reykjavik University**, GREEN Program for climate and energy policy, Reykjavik, Iceland
-
-## Academic and Professional History
-*Dec 2013 - present* **Curatorial Assistant** (Ted Daeschler, PhD.)  
+## Professional History
+*Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology, Academy of Natural Sciences (ANSP) Philadelphia, PA  
-* Design and implement a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
+* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
 
 *Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante)  
 National Centers for Environmental Information (NCEI) Boulder, CO.  
@@ -24,7 +17,7 @@ National Centers for Environmental Information (NCEI) Boulder, CO.
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
 Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP) Philadelphia, PA  
-* Migrated 8800+ records into FileMaker Pro using recognized metadata standards
+* Migrated 8800+ records into FileMaker Pro using recognized metadata standards  
 * Documented an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
@@ -36,12 +29,32 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
 
 ## Teaching and Outreach
-*2018* **Society for Science and the Public Advocate** working with the Drexel Lindy Center and School of the Future to develop and oversee a high school science fair mentorship program  
-*2017* **Drexel Community Scholar** coordinated after-school STEM activities for Alain Locke Elementary School students and served as science fair judge    
-*2014* Co-created a new community based learning course at Drexel focused around climate change, urban ecology, and scientific communication
+*2018* **English Second Language Teacher**  
+* Assisted Aquinas Center with their "English for Speakers of Other Languages" courses  
+
+*2017 - 2018* **Society for Science and the Public Advocate**  
+* Volunteered with Lindy Center for Civic Engagement and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms
+
+*2016 - 2017* **Drexel Community Scholar**  
+* Coordinated after-school STEM activities for 3rd and 4th grade students in the School District of Philadelphia  
+
+*2014 - 2015* I co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River  
+
+*2008 - 2013* I directed educational activities such as children's summer camps and special events at the Oglebay Good Zoo
+
+## Education
+*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
+**BS Environmental Science**, minor in Geoscience  
+*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges
+
+*Other education*  
+*2018* **Young Involved Philadelphia (YIP)**, Board Prep Program, Philadelphia, PA  
+*2017* **Native Nations Institute at University of Arizona**, Rebuilding Native Nations, Tuscon, AZ
+*2015* **The GREEN Program at Reykjavik University**, Renewable Energy & Sustainability, Reykjavik, Iceland
 
 ## Skills
-*Computer* - ArcGIS, GDAL/OGR, QGIS, Python, R, OpenRefine, SQL, FileMaker Pro, Git/GitHub, Microsoft Office Suite (Word, Excel, PowerPoint, Access), Bash, Markdown (this resume written in Markdown), HTML, LaTeX  
+*Computer* - ArcGIS, GDAL/OGR, QGIS, Python, R, OpenRefine, SQL, FileMaker Pro, Git/GitHub, Microsoft Office Suite (Word, Excel, PowerPoint, Access), Bash, Markdown (this resume written in Markdown), HTML, LaTeX
+
 *Field and Lab* - Managing lab notebooks, Titration, Filtration, RTK/PPK and laser level surveying, Open channel hydraulic surveys, Backpack electrofishing, Radio-telemetry, Scanning electron (SEM) and petrographic microscopy
 
 ## Awards and Grants
@@ -53,7 +66,6 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 *2016*	- National Oceanic and Atmospheric Administration (NOAA) Ernest F. Hollings Scholarship  
 *2016*	- Drexel University ExCITe Center Seed Fund Research Grant ($5,000)  
 *2016*	- Drexel University Steinbright Corporate Partners Grant ($4,000)  
-*2015*	- Drexel University Office of Undergraduate Research Fellow designation  
 *2013*	- Finalist of the Intel (now Regeneron) Science Talent Search by Society for Science and the Public
 
 ## Oral Presentations
