@@ -4,43 +4,55 @@ title: My CV
 permalink: /cv/
 tags: cv
 ---
-This page was originally written in Markdown for GitHub. This CV is also available as a PDF <a href="{{ site.baseurl }}/assets/docs/cv.pdf">here.</a>
+This page was originally written in Markdown for GitHub. My shortened resume is also available as a PDF <a href="{{ site.baseurl }}/assets/docs/resume.pdf">here.</a>
 
 ## Professional History
-*Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
-Vertebrate Paleontology, Academy of Natural Sciences (ANSP) Philadelphia, PA  
-* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
+*Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
+U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
+* Identify and rank data links in GCIS’s web of provenance based on source material completeness  
+* Support development of the Fourth National Climate Assessment (NCA4)
 
-*Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante)  
-National Centers for Environmental Information (NCEI) Boulder, CO.  
+*Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante, PhD.)  
+National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.  
 * Developed a global model of elevation with public bathymetric and topographic datasets using ArcGIS and Bash, available as an update to NOAA's previous ETOPO1 model
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
-Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP) Philadelphia, PA  
+Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Migrated 8800+ records into FileMaker Pro using recognized metadata standards  
 * Documented an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
-Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP) Philadelphia, PA  
+Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Visualized biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
 
-*Jun - Aug 2014* **STAR (Students Tackling Advanced Research) Scholar** (Daniel Duran, PhD.)  
-Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA  
+*Jun - Aug 2014* **Students Tackling Advanced Research (STAR) Scholar** (Daniel Duran, PhD.)  
+Office of Undergraduate Research, Drexel University, Philadelphia, PA  
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
+
+*Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
+Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA  
+* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
 
 ## Teaching and Outreach
 *2018* **English Second Language Teacher**  
-* Assisted Aquinas Center with their "English for Speakers of Other Languages" courses  
+St. Thomas Aquinas Catholic Community Center, Philadelphia, PA  
+* Assisted with "English for Speakers of Other Languages" courses for 15+ adults 2 hours per week
 
-*2017 - 2018* **Society for Science and the Public Advocate**  
-* Volunteered with Lindy Center for Civic Engagement and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms
+*2017 - 2018* **High School STEM Mentor**  
+Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA  
+* Mentored 50+ students in 9th and 10th grade science classrooms for 8 hours per week
 
 *2016 - 2017* **Drexel Community Scholar**  
-* Coordinated after-school STEM activities for 3rd and 4th grade students in the School District of Philadelphia  
+Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA  
+* Coordinated after-school STEM activities for 30+ 3rd and 4th grade students for 5 hours per week  
 
-*2014 - 2015* I co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River  
+*2014 - 2015* **Guest Instructor**  
+College of Arts and Science, Drexel University, Philadelphia, PA  
+* Co-developed a new community hybrid course for Drexel University, which combined lectures in the classroom and in the community. 18 students presented ideas to engage Philadelphia residents on topics of climate change, urban ecology, and public health along the Schuylkill River Walking Trail.
 
-*2008 - 2013* I directed educational activities such as children's summer camps and special events at the Oglebay Good Zoo
+*2008 - 2013* **Educator**  
+Education Department, Oglebay Good Zoo, Wheeling, WV  
+* Directed educational activities including summer camps for 4 to 6 year old children for 40 hours per week  
 
 ## Education
 *2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
@@ -49,7 +61,7 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 
 *Other education*  
 *2018* **Young Involved Philadelphia (YIP)**, Board Prep Program, Philadelphia, PA  
-*2017* **Native Nations Institute at University of Arizona**, Rebuilding Native Nations, Tuscon, AZ
+*2017* **Native Nations Institute at University of Arizona**, Rebuilding Native Nations, Tuscon, AZ  
 *2015* **The GREEN Program at Reykjavik University**, Renewable Energy & Sustainability, Reykjavik, Iceland
 
 ## Skills
@@ -79,7 +91,7 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 4 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Modeling species distributions of landsnail biodiversity. Presented at National Conference on Undergraduate Research, University of North Carolina, Asheville, NC, 7-9, Apr.  
 3 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at BEES Research Day, Drexel University, Philadelphia, PA, 10 Mar.  
 2 - **O’Leary, V**., T. Daeschler (2016), Building an urban ecology curriculum along the Schuylkill River walking trail. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, 25 Feb.  
-1 - **O’Leary, V** (2016), 1 Footpath, 100 Stories: Climate change and the importance of ”talking science”. Presented twice at Undergraduate Research Nerd Nite, Drexel University.
+1 - **O’Leary, V** (2016), 1 Footpath, 100 Stories: Climate change and the importance of ”talking science”. Presented twice at Undergraduate Research Nerd Night, Drexel University.
 
 ## Poster Presentations
 8 - **O'Leary, V**., C. Amante (2017), GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Abstract OS31C-1412 presented at 2017 Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.  
