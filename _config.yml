@@ -1,6 +1,6 @@
 # Site settings
 title:       Vincent O'Leary
-email:       email@vincentoleary.com
+email:       vincentoleary@pm.me
 author:      Vincent O'Leary
 description: "Using data to understand the planet"
 baseurl:     ""
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
