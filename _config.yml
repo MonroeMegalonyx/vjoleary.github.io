@@ -1,8 +1,8 @@
 # Site settings
 title:       Vincent O'Leary
-email:       vincentoleary@pm.me
+email:       vincent@f-m.fm
 author:      Vincent O'Leary
-description: "Using data to understand the planet"
+description: "Using data to understand the planet and the people that live on it"
 baseurl:     ""
 url:         "www.vincentoleary.com"
 date_format: "%b %-d, %Y"
