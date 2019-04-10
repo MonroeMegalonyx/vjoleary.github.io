@@ -1,9 +1,10 @@
 <footer class="center">
   <div class="measure">
     <small>
-      Vincent O'Leary's personal website.</br>
-      Hosted with Github using <a href="https://jekyllrb.com/">Jekyll</a>. Theme based on <a href="https://github.com/johnotander/pixyll">Pixyll</a>.</br>
-      Sitewide highlighting provided through <a href="https://connect.getliner.com/api">LINER API</a>
+      Hosted on my <a href="https://github.com/vjoleary/vjoleary.github.io">Github</a> and powered by <a href="https://jekyllrb.com/">Jekyll</a>
+      </br>Theme modified from <a href="https://github.com/johnotander/pixyll">Pixyll</a>
+      </br>Icons provided by <a href="https://fontawesome.com">Font Awesome </a><i class="fab fa-font-awesome"></i> and <a href="https://jpswalsh.github.io/academicons/">Academicicons</a>.
+      </br>Citations generated using <a href="https://github.com/inukshuk/jekyll-scholar">Jekyll Scholar</a>.
     </small>
   </div>
 </footer>
@@ -13,7 +14,8 @@
     anchors.options.visible = 'always';
     anchors.add('article h2, article h3, article h4, article h5, article h6');
 </script>{% endif %}
-
-<!-- Sitewide highlighting added using the LINER Highlighting API https://connect.getliner.com/api -->
-<script type="text/javascript" charset="utf-8"
-src="https://connect.getliner.com/sdk/sdk-in-site.js"></script>
+<script type="text/javascript">
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+    }
+</script>

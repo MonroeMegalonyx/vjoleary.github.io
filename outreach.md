@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Outreach
+title: Outreach
 permalink: /outreach/
 tags: outreach
 ---
