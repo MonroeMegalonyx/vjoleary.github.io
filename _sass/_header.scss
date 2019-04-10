@@ -4,9 +4,9 @@
 }
 
 .site-header a {
-  color: $header-color;
+  color: #333;
   font-size: $h3;
-  font-weight: $header-font-weight;
+  font-weight: 300;
   background-image: none;
 }
 
@@ -15,30 +15,25 @@
 }
 
 .site-nav {
-  padding-top: $nav-padding;
+  margin: 0;
+  padding: 0;
 }
 
 .site-header nav a {
-  color: $nav-color;
+  font-size: 1rem;
+  color: #666;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
-.site-header nav a:active,
-.site-header nav a.nav-active:hover,
-.site-header nav a.nav-active:focus,
-.site-header nav a.nav-active:active {
-  color: $nav-link-color;
+.site-header nav a:active {
+  color: #444;
   opacity: 1;
-  border-bottom: $nav-link-border-bottom;
-}
-
-.site-header nav a.nav-active {
-  border-bottom: $nav-active-border-bottom;
+  border-bottom: 2px solid #444;
 }
 
 .site-nav a + a {
-  margin-left: $nav-link-padding-x;
+  margin-left: 1em;
 }
 
 .site-header a:hover,
@@ -54,4 +49,29 @@
 
 .site-header .site-nav {
   text-align: center;
+}
+
+
+@media screen and (min-width: 48em) {
+  .site-header .site-title {
+    float: left;
+  }
+}
+
+@media screen and (max-width: 48em) {
+  .site-header {
+    text-align: center;
+  }
+
+  .site-header .site-title {
+    float: center;
+  }
+
+  .site-header .site-nav {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 0.666em;
+    margin-bottom: 1.333em;
+  }
 }

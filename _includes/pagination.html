@@ -2,23 +2,19 @@
   <div class="left">
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ "/" | relative_url }}">{{ site.text.pagination.newer | default: "&larr; Newer" }}</a>
+        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
       {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path | relative_url }}">{{ site.text.pagination.newer | default: "&larr; Newer" }}</a>
+        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
       {% endif %}
     {% else %}
-<!-- This is the "Newer" page button for the first page, comment out to hide it. Default is to show grayed out button
-      <span class="pagination-item disabled">{{ site.text.pagination.newer | default: "&larr; Newer" }}</span>
--->
+      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
     {% endif %}
   </div>
   <div class="right">
     {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ paginator.next_page_path | relative_url }}">{{ site.text.pagination.older | default: "Older &rarr;" }}</a>
+      <a class="pagination-item" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
     {% else %}
-<!-- This is the "Older" page button for the first page, comment out to hide it. Default is to show grayed out button
-      <span class="pagination-item disabled">{{ site.text.pagination.older | default: "Older &rarr;" }}</span>
--->
+      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
     {% endif %}
   </div>
   <div class="pagination-meta">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CV
+title: My CV
 permalink: /cv/
 tags: cv
 ---
-My CV is written in Markdown <i class="fab fa-markdown"></i> and available here or on my GitHub. An abbreviated resume is also available as a <a href="{{ site.baseurl }}/assets/docs/resume.pdf" style="text-decoration:none;">PDF download <i class="fas fa-file-pdf"></i></a>
+This page was originally written in Markdown for GitHub. My shortened resume is also available as a PDF <a href="{{ site.baseurl }}/assets/docs/resume.pdf">here.</a>
 
 ## Personal Statement
 Seeking a position at the expiration of my term with Americorps that will allow me to maximize my 10+ years of experience in science communication  and mentoring in order to connect environmental policy and research with the communities and people they affect.

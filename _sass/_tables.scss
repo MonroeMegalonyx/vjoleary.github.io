@@ -6,10 +6,8 @@
 table {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.5;
   font-size: 1.125rem;
-  overflow-x:auto;
-  display:block;
   // Cells
   > thead,
   > tbody,
@@ -43,5 +41,12 @@ table {
   // Account for multiple tbody instances
   > tbody + tbody {
     border-top: 2px solid #333;
+  }
+}
+
+
+@media screen and (min-width: 48em) {
+  table {
+    font-size: 1.25rem;
   }
 }

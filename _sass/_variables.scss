@@ -53,8 +53,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: #FF0000;
-$link-hover-color: darken(#FF0000, 30%);
+$link-color: $blue;
+$link-hover-color: darken($blue, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -111,20 +111,6 @@ $hljs-deletion: $light-pink;
 $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
-
-// Header
-$header-border-top: thin solid #f3f3f3;
-$header-color: $dark-gray;
-$header-bg-color: #fafafa;
-$header-font-weight: 300;
-
-// Nav
-$nav-color: #FF0000;
-$nav-link-color: darken(#FF0000, 30%);
-$nav-padding: $space-2;
-$nav-link-padding-x: $space-2;
-$nav-link-border-bottom: 2px solid #444;
-$nav-active-border-bottom: 1px solid $light-gray;
 
 // Footer
 $footer-border-top: thin solid #f3f3f3;

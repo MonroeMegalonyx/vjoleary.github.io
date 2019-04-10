@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First journal publication!
-# summary: This is the first paper I have published.
 tags: publication news science
 ---
 
