@@ -1,11 +1,25 @@
 @charset "UTF-8";
 /*!
-* Pixyll - A simple, beautiful Jekyll theme that's mobile first.
-* Crafted with <3 by John Otander (@4lpine) - ©2015-2019 John Otander
-* @author John Otander <johnotander@gmail.com> (http://johnotander.com/)
-* @link https://github.com/johnotander/pixyll
-* @license MIT
+* To add custom webfonts locally, link here and install under assets/fonts. Otherwise use web service like google fonts and link from head.html
 */
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Black.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Black.woff") format("woff"), url("../../assets/fonts/PublicSans-Black.ttf") format("truetype"); font-weight: 900; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-BlackItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-BlackItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-BlackItalic.ttf") format("truetype"); font-weight: 900; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Bold.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Bold.woff") format("woff"), url("../../assets/fonts/PublicSans-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-BoldItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-BoldItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-BoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-ExtraBold.woff2") format("woff2"), url("../../assets/fonts/PublicSans-ExtraBold.woff") format("woff"), url("../../assets/fonts/PublicSans-ExtraBold.ttf") format("truetype"); font-weight: 800; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-ExtraBoldItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-ExtraBoldItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-ExtraBoldItalic.ttf") format("truetype"); font-weight: 800; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Medium.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Medium.woff") format("woff"), url("../../assets/fonts/PublicSans-Medium.ttf") format("truetype"); font-weight: 500; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-MediumItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-MediumItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-MediumItalic.ttf") format("truetype"); font-weight: 500; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-SemiBold.woff2") format("woff2"), url("../../assets/fonts/PublicSans-SemiBold.woff") format("woff"), url("../../assets/fonts/PublicSans-SemiBold.ttf") format("truetype"); font-weight: 600; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-SemiBoldItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-SemiBoldItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-SemiBoldItalic.ttf") format("truetype"); font-weight: 600; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-ExtraLight.woff2") format("woff2"), url("../../assets/fonts/PublicSans-ExtraLight.woff") format("woff"), url("../../assets/fonts/PublicSans-ExtraLight.ttf") format("truetype"); font-weight: 200; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-ExtraLightItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-ExtraLightItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-ExtraLightItalic.ttf") format("truetype"); font-weight: 200; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Light.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Light.woff") format("woff"), url("../../assets/fonts/PublicSans-Light.ttf") format("truetype"); font-weight: 300; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-LightItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-LightItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-LightItalic.ttf") format("truetype"); font-weight: 300; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Regular.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Regular.woff") format("woff"), url("../../assets/fonts/PublicSans-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Italic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Italic.woff") format("woff"), url("../../assets/fonts/PublicSans-Italic.ttf") format("truetype"); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-Thin.woff2") format("woff2"), url("../../assets/fonts/PublicSans-Thin.woff") format("woff"), url("../../assets/fonts/PublicSans-Thin.ttf") format("truetype"); font-weight: 100; font-style: normal; }
+@font-face { font-family: 'Public Sans'; src: url("../../assets/fonts/PublicSans-ThinItalic.woff2") format("woff2"), url("../../assets/fonts/PublicSans-ThinItalic.woff") format("woff"), url("../../assets/fonts/PublicSans-ThinItalic.ttf") format("truetype"); font-weight: 100; font-style: italic; }
 /*!
 
   BASSCSS
@@ -17,7 +31,7 @@
 
 */
 /* Basscss Base Buttons */
-button, .button { font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; font-size: inherit; font-weight: normal; text-decoration: none; cursor: pointer; display: inline-block; box-sizing: border-box; line-height: 1.125rem; padding: 0.5rem 1rem; margin: 0; height: auto; border: 1px solid transparent; vertical-align: middle; -webkit-appearance: none; }
+button, .button { font-family: "Public Sans", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; font-size: inherit; font-weight: normal; text-decoration: none; cursor: pointer; display: inline-block; box-sizing: border-box; line-height: 1.125rem; padding: 0.5rem 1rem; margin: 0; height: auto; border: 1px solid transparent; vertical-align: middle; -webkit-appearance: none; }
 
 ::-moz-focus-inner { border: 0; padding: 0; }
 
@@ -47,15 +61,15 @@ img { max-width: 100%; }
 svg { max-height: 100%; }
 
 /* Basscss Base Typography */
-body { font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif; line-height: 1.5; font-size: 100%; }
+body { font-family: "IBM Plex Serif", Times, "Times New Roman", serif; line-height: 1.5; font-size: 100%; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
+h1, h2, h3, h4, h5, h6 { font-family: "Public Sans", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
 
 p, dl, ol, ul { font-size: 1rem; margin-top: 0; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 2rem; }
 
-pre, code, samp { font-family: "Source Code Pro", Consolas, monospace; font-size: inherit; }
+pre, code, samp { font-family: "Hack", "Source Code Pro", "Courier-New", monospace; font-size: inherit; }
 
 pre { margin-top: 0; margin-bottom: 1rem; overflow-x: scroll; }
 
@@ -345,7 +359,7 @@ button, .button { text-shadow: none; background-image: none; }
 
 pre, pre code { background-color: transparent; border-radius: 0; }
 
-pre, code { font-family: "Source Code Pro", Consolas, monospace; }
+pre, code { font-family: "Hack", "Source Code Pro", "Courier-New", monospace; }
 
 code { color: #7a7a7a; }
 
@@ -530,7 +544,7 @@ blockquote footer { background-color: #fff; border-color: transparent; color: #7
 
 .measure { margin: 0 auto; max-width: 42rem; }
 
-.pagination { font-size: 1rem; font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif; font-weight: 300; text-align: center; }
+.pagination { font-size: 1rem; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif; font-weight: 300; text-align: center; }
 
 .pagination a, .pagination .disabled { -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; background: #fafafa; border-radius: 0.1875em; border: 1px solid #f3f3f3; color: #333333; padding: 1em 1.5em; }
 
