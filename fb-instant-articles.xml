@@ -4,8 +4,35 @@
     <title></title>
     <link>http://localhost:4000</link>
     <description>
-      Using data to understand the planet and the people that live on it
+      My personal website to share updates and projects
     </description>
+    
+        
+            <item>
+                <title>US2020 awards Fab Lab at 4th Annual STEM Mentoring + Making Awards</title>
+                <link>http://localhost:4000/2019/08/08/fab-lab-mentor-award/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>The program I have been working with during my AmeriCorps VISTA term, Mentors in the Making, was recognized as “Most Innovative Maker-Centered Learning Program of the Year” by US2020, a program of Citizen Schools.</p>
+
+<blockquote>
+  <p>The Most Innovative Maker-Centered Learning Program of the Year award recognizes those who have taken a unique, creative and effective approach to expanding maker-centered learning within their communities by supporting educator professional development, hosting events that engage and celebrate student maker projects and the creation of spaces that foster these experiences. Mentors in the Making, a program from Carnegie Science Center, matches STEM professionals 1:1 with underrepresented high school students for rigorous 6-month projects, applying the latest digital fabrication techniques toward solutions that benefit their community.</p>
+</blockquote>
+
+<p>Source: <a href="https://www.citizenschools.org/news/2019/3/29/us2020-launches-4th-annual-stem-mentoring-making-awards">US2020 Announcement</a>
+Source: <a href="https://www.citizenschools.org/news/us2020-honors-national-stem-award-winners-announces-new-name">US2020 Announcement</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2019/08/08/fab-lab-mentor-award/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 08 Aug 2019 00:00:00 -0400</pubDate>
+                <author>Vincent OLeary</author>
+            </item>
+        
     
         
             <item>
@@ -45,6 +72,29 @@
                     
                 </description>
                 <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+                <author>Vincent OLeary</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Fellowships Graduation Award for 2018</title>
+                <link>http://localhost:4000/2018/06/07/drexel-fellowship-grad-award/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <blockquote>
+  <p>The Center for Scholar Development encourages and supports students who seek to expand their horizons and reach for something bigger. We also hope students will reflect on why they do the things they do, about the choices that they make and the things that matter to them. The Fellowships Graduation Award recognizes a graduating Honors Program student who has contributed to this way of thinking and the broader fellowships culture at Drexel.</p>
+</blockquote>
+
+<p>Source: <a href="https://drexel.edu/fellowships/about/news/2018/June/2018%20Fellowships%20Graduation%20Award/">Drexel Fellowships Office announcement</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/06/07/drexel-fellowship-grad-award/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 07 Jun 2018 00:00:00 -0400</pubDate>
                 <author>Vincent OLeary</author>
             </item>
         
