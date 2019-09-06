@@ -105,7 +105,7 @@
 /* Basscss Base Buttons */
 button,
 .button {
-  font-family: "Public Sans", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Public Sans", "Helvetica Neue", sans-serif;
   font-size: inherit;
   font-weight: normal;
   text-decoration: none;
@@ -195,19 +195,21 @@ svg {
   max-height: 100%; }
 
 /* Basscss Base Typography */
+/* Body Typography Settings */
 body {
-  font-family: "IBM Plex Serif", Times, "Times New Roman", serif;
+  font-family: "Cooper Hewitt", "Helvetica Neue", sans-serif;
   line-height: 1.5;
   font-size: 100%; }
 
+/* Header Typography Settings */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Public Sans", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-  font-weight: 900;
+  font-family: "Public Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em; }
@@ -227,7 +229,7 @@ ul {
 pre,
 code,
 samp {
-  font-family: "Hack", "Source Code Pro", "Courier-New", monospace;
+  font-family: "Hack", monospace;
   font-size: inherit; }
 
 pre {
@@ -526,7 +528,7 @@ hr {
     font-size: 3.84rem; } }
 /* Basscss Utility Typography */
 .bold {
-  font-weight: bold; }
+  font-weight: 700; }
 
 .regular {
   font-weight: normal; }
@@ -780,7 +782,7 @@ pre code {
 
 pre,
 code {
-  font-family: "Hack", "Source Code Pro", "Courier-New", monospace; }
+  font-family: "Hack", monospace; }
 
 code {
   color: #7a7a7a; }
@@ -924,7 +926,7 @@ textarea {
   box-shadow: 0 0 2px rgba(0, 118, 223, 0.5); }
 
 html {
-  font-size: 14px; }
+  font-size: 11px; }
 
 abbr {
   border-bottom: 1px black dotted;
@@ -947,11 +949,11 @@ sup {
   .p,
   p,
   li {
-    font-size: 1.25rem;
+    font-size: 1.0rem;
     line-height: 1.8; }
 
   .small {
-    font-size: 1rem; } }
+    font-size: 0.8rem; } }
 .site-header {
   padding-top: 0.5rem;
   padding-bottom: 1rem; }
@@ -1291,7 +1293,7 @@ blockquote footer {
 
 .pagination {
   font-size: 1rem;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 300;
   text-align: center; }
 
